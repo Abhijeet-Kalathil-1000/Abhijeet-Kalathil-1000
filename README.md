@@ -5,11 +5,11 @@
 
 - 🔭 I’m a **Software Developer**
 
-- 🌱 I’m currently learning **AI-Machine Learning**
-
 - 👯 I’m looking to collaborate on **System Programming, Device Driver Programming, AI-Machine Learning**
 
 - 🤝 I’m looking for opportunities to collaborate as **a Programmer**
+
+- 🌱 I’m currently learning **AI-Machine Learning**
 
 - 👨‍💻 All of my projects are available at [github.com/Abhijeet-Kalathil-1000](github.com/Abhijeet-Kalathil-1000)
 
