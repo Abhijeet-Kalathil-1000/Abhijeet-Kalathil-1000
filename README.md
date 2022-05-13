@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Kalathil</h1>
-<h3 align="center">🔭 I'm a Software Developer</h3><h3 align="center">👀 Always exploring technologies using programming languages; </h3><h3 align="center">🌱 Languages known: C, C++, Java, Python;</h3><h3 align="center"> 🦾 Good at Data Structure, Algorithm & Logic Building</h3><h3 align="center"> 💞️ I’m looking for opportunities to collaborate as a Programmer; </h3><h3 align="center">👨‍💻 Interested in System Programming, Device Driver Programming, AI-Machine Learning;</h3>
+<h3 align="center">🔭 I'm a Software Developer</h3><h3 align="center">👀 Always exploring technologies using programming languages; </h3><h3 align="center">🌱 Languages known: C, C++, Java, Python;</h3><h3 align="center"> 🦾 Good at Data Structure, Algorithm & Logic Building</h3><h3 align="center"> 🤝 I’m looking for opportunities to collaborate as a Programmer; </h3><h3 align="center">👨‍💻 Interested in System Programming, Device Driver Programming, AI-Machine Learning;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet-kalathil-1000&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-kalathil-1000" /> </p>
 
-- 🔭 I’m a **Software Developer**
+- 🏆 Goal is to get experienced in **Multiple Languages as a Software Developer**
 
-- 👯 Looking to collaborate on **System Programming, Device Driver Programming, AI-Machine Learning**
+- 😆 Fun fact : someday expecting to code in **Binary** 🤪
 
-- 🤝 Looking for opportunities to collaborate as **a Programmer**
+-  Looking for opportunities to collaborate as **a Programmer**
 
 - 📘  learning **AI-Machine Learning**
 
