@@ -11,7 +11,7 @@
 
 - 💞 Love : To take **Challenges & Overcome them**
 
-- 🌱 Current Attraction : **AI-Machine Learning**
+- 🌱 Current Attraction : **Ai-Machine Learning**
 
 - 😆 Fun fact : Someday expecting to code in **Binary** 🤪
 
