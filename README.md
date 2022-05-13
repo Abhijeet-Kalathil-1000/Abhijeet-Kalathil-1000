@@ -5,9 +5,11 @@
 
 - 🏆 Goal is to get experienced in **Multiple Languages as a Software Developer**
 
-- 😆 Fun fact : someday expecting to code in **Binary** 🤪
+- 😆 Fun fact : Someday expecting to code in **Binary** 🤪
 
--  Looking for opportunities to collaborate as **a Programmer**
+- 🌩️ Believes in **One can make a difference**
+
+- 💞 Love **Challenges and Achieving them**
 
 - 📘  learning **AI-Machine Learning**
 
