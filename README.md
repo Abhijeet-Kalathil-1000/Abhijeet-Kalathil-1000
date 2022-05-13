@@ -3,21 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet-kalathil-1000&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-kalathil-1000" /> </p>
 
-- 🏆 Goal is to get experienced in **Multiple Languages as a Software Developer**
+- 🏆 Goal : To get experienced in **Multiple Languages as a Software Developer**
+
+- 📘 Motive : **Keep Learning to grow**
+
+- 🌩️ Belief : **One can make a difference**
+
+- 💞 Love : **Challenges and Achieving them**
+
+- 🌱 Current Attraction : **AI-Machine Learning**
 
 - 😆 Fun fact : Someday expecting to code in **Binary** 🤪
 
-- 🌩️ Believes in **One can make a difference**
-
-- 💞 Love **Challenges and Achieving them**
-
-- 📘  learning **AI-Machine Learning**
-
-- 🌱 Currently learning **AI-Machine Learning**
-
-- 👨‍💻 All of my projects are available at [github.com/Abhijeet-Kalathil-1000](github.com/Abhijeet-Kalathil-1000)
-
-- 📫 How to reach me **kalathilabhijeet10@gmail.com;**
+- 📫 Mail me at : **kalathilabhijeet10@gmail.com;**
 
 
 <h3 align="left">Languages and Tools:</h3>
