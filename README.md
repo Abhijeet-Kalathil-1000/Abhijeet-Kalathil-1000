@@ -9,7 +9,7 @@
 
 - 🌩️ Belief : **One can make a difference**
 
-- 💞 Love : **Challenges and Achieving them**
+- 💞 Love : To take **Challenges & Overcome them**
 
 - 🌱 Current Attraction : **AI-Machine Learning**
 
