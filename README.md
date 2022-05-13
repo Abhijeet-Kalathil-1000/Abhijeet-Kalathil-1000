@@ -24,5 +24,5 @@
 - 📫 Drop a mail : **kalathilabhijeet10@gmail.com;**
 
 
-<h3 align="center"> 🗣️ import Ethics ; \t extend Oppertunites ;     implements Knowledge ;      throw Fun ;     return char; </h3>
+<h3 align="center"> 🗣️ import Ethics ; </h3><h3> extend Oppertunites ;     implements Knowledge ;      throw Fun ;     return char; </h3>
 
