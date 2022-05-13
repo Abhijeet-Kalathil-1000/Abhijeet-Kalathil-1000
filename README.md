@@ -8,7 +8,7 @@
 - 👯 Looking to collaborate on **System Programming, Device Driver Programming, AI-Machine Learning**
 
 - 🦾 Expertise **Data Structure, Algotirm & Logic Building**
-- 
+
 - 🤝 Looking for opportunities to collaborate as **a Programmer**
 
 - 🌱 Currently learning **AI-Machine Learning**
