@@ -15,7 +15,7 @@
 
 - 😆 Fun fact : Someday expecting to code in **Binary** 🤪
 
-- 📫 Mail me at : **kalathilabhijeet10@gmail.com;**
+- 📫 Ping me : **kalathilabhijeet10@gmail.com;**
 
 
 <h3 align="left">Languages and Tools:</h3>
