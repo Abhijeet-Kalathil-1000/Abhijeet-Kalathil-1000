@@ -5,13 +5,15 @@
 
 - 🏆 Goal : To get experienced in **Multiple Languages as a Software Developer**
 
-- 📘 Motive : **Keep Learning to grow**
-
 - 🌩️ Belief : **One can make a difference**
 
 - 💞 Love : To take **Challenges & Overcome them**
 
-- 🌱 Current Attraction : **Ai-Machine Learning**
+- 📘 Motive : **Keep Learning to grow**
+
+- 🌱 Learning Topics : **Angular - MEAN stack**
+
+- 👨‍🎓 Next Topics : **C# , Assembly**
 
 - 😆 Fun fact : Someday expecting to code in **Binary** 🤪
 
