@@ -11,7 +11,7 @@
 
 - 🌩️ Belief : **One can make a difference**
 
-- 💞 Love : To take **Challenges & Overcome them**
+- 💞 Love : To take **Challenges & Conquer them**
 
 - 📘 Motive : **Learning == Growth**
 
