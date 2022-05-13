@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Kalathil</h1>
-<h3 align="center">👀 I explore technologies using programming languages; 🌱 Languages known: C, C++, Java, Python; 💞️ I’m looking for opportunities to collaborate as a Programmer; 👨‍💻 Interested in System Programming, Device Driver Programming, AI-Machine Learning;</h3>
+<h3 align="center">👀 I explore technologies using programming languages; </h3><h3🌱 Languages known: C, C++, Java, Python; 💞️ I’m looking for opportunities to collaborate as a Programmer; 👨‍💻 Interested in System Programming, Device Driver Programming, AI-Machine Learning;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet-kalathil-1000&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-kalathil-1000" /> </p>
 
