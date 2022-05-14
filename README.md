@@ -15,9 +15,9 @@
 
 - 📘 Motive : **Learning == Growth**
 
-- 🌱 Learning Topics : **Angular - MEAN stack**
+- 🌱 Learning Topic : **Angular - MEAN stack**
 
-- 👨‍🎓 Next Topics : **C# , Assembly**
+- 👨‍🎓 Next Topic : **C# , Assembly**
 
 - 😆 Fun fact : Someday expecting to code in **Binary** 🤪
 
