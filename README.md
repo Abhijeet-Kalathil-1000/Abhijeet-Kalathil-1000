@@ -28,7 +28,7 @@
 
 - 📘 Motive : **Learning == Growth**
 
-- 🌱 Learning Topic : **Angular - MEAN stack**
+- 🌱 Learning Topic : **advance DSA*
 
 - 👨‍🎓 Next Topic : **C# , Assembly**
 
