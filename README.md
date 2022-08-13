@@ -25,7 +25,7 @@
 
 </p>
 
-- 🏆 Goal : To have expertise in **Multiple languages & divisions as a Software Developer**
+- 🏆 Goal : To have expertise in **multiple languages, technologies & divisions as a Software Developer**
 
 - 🌩️ Belief : **One can make a difference**
 
