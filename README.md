@@ -24,7 +24,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
-- 🏆 Goal : To get experienced in **Multiple Languages as a Software Developer**
+- 🏆 Goal : To have expertise in **Multiple languages & divisions as a Software Developer**
 
 - 🌩️ Belief : **One can make a difference**
 
