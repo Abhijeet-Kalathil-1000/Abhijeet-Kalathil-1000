@@ -38,4 +38,4 @@
 
 - 😆 Fun fact : Someday expecting to code in **Binary** 🤪
 
-- 📫 Drop a mail : **kalathilabhijeet10@gmail.com;**
+- 📫 Drop a mail : **kalathilabhijeet10@gmail.com**
