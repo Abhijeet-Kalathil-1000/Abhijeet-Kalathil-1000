@@ -33,7 +33,7 @@
 
 - 📘 Motive : **Learning == Growth**
 
-- 🌱 Learning Topic : **advance DSA**
+- 🌱 Learning Topic : **DSA**
 
 - 👨‍🎓 Next Topic : **C# , Assembly**
 
