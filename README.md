@@ -35,7 +35,7 @@
 
 - 📘 Motive : **Learning == Growth**
 
-- 🌱 Learning Topic : **DSA**
+- 🌱 Learning Topic : **UNIX Internals & Linux System Programming**
 
 - 👨‍🎓 Next Topic : **C# , Assembly**
 
