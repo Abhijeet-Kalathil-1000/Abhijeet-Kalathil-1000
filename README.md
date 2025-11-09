@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Kalathil</h1>
 <h4 align="center"> Native (C / C++) | Virtual (Java) | AI - Machine Learning (Python/ Pandas/ Scikit Learn) | Web (MEAN - Stack)</h4>
 <h3 align="center">🔭 I'm a Software Developer</h3><h3 align="center">👀 Always exploring Technologies & Programming </h3><h3 align="center">🌱 Languages known: C, C++, Java, Python, JavaScript, TypeScript</h3><h3 align="center"> 🦾 Good at Data Structure, Algorithm & Logic Building</h3><h3 align="center"> 🤝 Looking for opportunities to collaborate as a Programmer </h3>
-<h3 align="center">👨‍💻 Interested in System Programming, Device Driver Programming, Ai-Machine Learning</h3>
+<h3 align="center">👨‍💻 Interested in System Programming, Device Driver Programming, AI-Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet-kalathil-1000&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-kalathil-1000" /> </p>
 
@@ -27,18 +27,18 @@
 
 </p>
 
-- 🏆 Goal : To have expertise in **multiple languages, technologies & divisions as a Software Developer**
+- 🏆 Goal: To have expertise in **multiple languages, technologies & divisions as a Software Developer**
 
-- 🌩️ Belief : **One can make a difference**
+- 🌩️ Belief: **One can make a difference**
 
-- 💞 Love : To take **Challenges & Conquer them**
+- 💞 Love: To take **Challenges & Conquer them**
 
-- 📘 Motive : **Learning == Growth**
+- 📘 Motive: **Learning == Growth**
 
-- 🌱 Learning Topic : **UNIX Internals & Linux System Programming**
+- 🌱 Learning Topic: **UNIX Internals & Linux System Programming**
 
-- 👨‍🎓 Next Topic : **C# , Assembly**
+- 👨‍🎓 Next Topic: **C#**
 
-- 😆 Fun fact : Someday expecting to code in **Binary** 🤪
+- 😆 Fun fact: Someday expecting to code in **Binary** 🤪
 
-- 📫 Drop a mail : **kalathilabhijeet10@gmail.com**
+- 📫 Drop a mail: **kalathilabhijeet10@gmail.com**
